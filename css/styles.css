@@ -17,7 +17,8 @@ h2 {
   font-size: 3.75rem;
   color: #66BFBF;
   font-weight: normal;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
+  margin-top: 0px;
 }
 
 h3 {
@@ -64,6 +65,8 @@ hr {
   padding: 50px 0 20px;
 }
 .mountain {
+  width: 40%;
+  height: 40%;
 
 }
 .bottom-cloud {
