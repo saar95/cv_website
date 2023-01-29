@@ -67,11 +67,11 @@ hr {
 .mountain {
   width: 40%;
   height: 40%;
-
+  margin-top: 80px;
 }
 .bottom-cloud {
   position: absolute;
-  bottom: 300px;
+  bottom: 400px;
   left: 250px;
 }
 
