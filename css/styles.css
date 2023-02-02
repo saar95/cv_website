@@ -7,7 +7,7 @@ body {
 
 h1 {
   font-size: 8.4375rem;
-  margin: 50px auto 0 auto;
+  margin: 30px auto 0 auto;
   font-family: 'Caveat', cursive;
   color: #66BFBF;
 }
@@ -119,6 +119,10 @@ hr {
   margin: 40px auto 60px;
 }
 
+.contact-title{
+  margin-bottom: 25px;
+}
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -151,3 +155,23 @@ hr {
   font-size: 0.75rem;
   padding: 20px 0;
 }
+
+/* Nav Bar */
+
+.navbar {
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+  font-family: "Montserrat";
+
+}
+
+.nav-link{
+  color: black;
+}
+
